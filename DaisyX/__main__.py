@@ -63,9 +63,10 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓓𝓪𝓲𝓼𝔂 𝓧](https://telegra.ph/file/473cc17913393959e0667.jpg)
-
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+Hello there, I'm [ShizuBot](https://telegra.ph/file/4838fb76ee046eb4c3161.jpg)
+Hi👋,
+  I'm a powerful bot for manage your group🔥You can use me as a music bot also🎶I'm a project of my master👇
+        @Mr_Rasiyaa
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
@@ -79,14 +80,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/daisyXBot?startgroup=true"
+            text="💫 Add Shizu to your group 💫", url="t.me/MrRGYT_music_bot?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/473cc17913393959e0667.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/4838fb76ee046eb4c3161.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -101,7 +102,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
+Support them  [Rasiya](t.me/Mr_Rasiyaa),[Gimhan](t.me/Men_kla_tota_hena_gpn_pw_gediya),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
